@@ -1,0 +1,13 @@
+{
+  "id": "nvidia",
+  "enabledByDefault": true,
+  "providers": ["nvidia"],
+  "providerAuthEnvVars": {
+    "nvidia": ["NVIDIA_API_KEY", "NVIDIA_NIM_BASE_URL"]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

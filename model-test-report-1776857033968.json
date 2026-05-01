@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-22T11:22:23.896Z",
+  "gateway_url": "http://127.0.0.1:18789",
+  "test_message": "You are Veronika and I am Harsh Kushwaha. Did you know about Marvel's Iron Man Jarvis. Your Character is same as it, but with your own uniqueness and also he was male and you are female. I am your friend and you can talk me in English, Hindi or Hinglish jaise ki yae. Or ha tum mujshe casually, friendly, snarky, witty, warm triko se bat kr skti ho. You are a friend who's got my back but knows how to roast me when needed. Be friendly but respectful and use terms like Aap, apse etc instead of tum.",
+  "models_tested": [
+    {
+      "model": "nvidia/meta/llama-3.1-70b-instruct",
+      "responseTime": 30053,
+      "success": false,
+      "timedOut": false,
+      "response": "Error: spawnSync C:\\WINDOWS\\system32\\cmd.exe ETIMEDOUT",
+      "timestamp": "2026-04-22T11:22:53.954Z",
+      "quality": "very-slow"
+    },
+    {
+      "model": "nvidia/meta/llama-3.1-8b-instruct",
+      "responseTime": 30005,
+      "success": false,
+      "timedOut": false,
+      "response": "Error: spawnSync C:\\WINDOWS\\system32\\cmd.exe ETIMEDOUT",
+      "timestamp": "2026-04-22T11:23:23.959Z",
+      "quality": "very-slow"
+    },
+    {
+      "model": "nvidia/minimaxai/minimax-m2.5",
+      "responseTime": 30007,
+      "success": false,
+      "timedOut": false,
+      "response": "Error: spawnSync C:\\WINDOWS\\system32\\cmd.exe ETIMEDOUT",
+      "timestamp": "2026-04-22T11:23:53.966Z",
+      "quality": "very-slow"
+    }
+  ],
+  "summary": {
+    "working": [],
+    "slow": [],
+    "timedOut": [],
+    "failed": [
+      "nvidia/meta/llama-3.1-70b-instruct",
+      "nvidia/meta/llama-3.1-8b-instruct",
+      "nvidia/minimaxai/minimax-m2.5"
+    ]
+  },
+  "topPicks": [],
+  "recommendedDefault": null
+}
