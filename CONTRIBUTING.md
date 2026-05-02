@@ -1,5 +1,5 @@
 # Contributing to OpenClaw
-
+**Note:** This is official Openclaw's Contributing.md file
 Welcome to the lobster tank! 🦞
 
 ## Quick Links
