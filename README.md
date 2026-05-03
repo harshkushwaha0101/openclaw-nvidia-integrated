@@ -23,6 +23,9 @@ pnpm openclaw gateway
 ```
 Your OpenClaw instance should now be up and running with NVIDIA provider support.
 
+<img width="1896" height="858" alt="image" src="https://github.com/user-attachments/assets/f8d40cd9-4526-48b4-b1d9-02786696d463" />
+
+
 ## Detailed Installation
 
 ```bash
